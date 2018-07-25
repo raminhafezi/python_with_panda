@@ -1,0 +1,6 @@
+Band,Range,factor 1,factor 2,
+A,"for each dollar of rateable value of the land upon which a community titles scheme is constructed up to and including $2,250,000",0,0,plus
+B,"for each dollar of rateable value of the land upon which a community titles scheme is constructed from $2,250,001 up to and including $6,000,000",0.0076,0,plus
+C,"for each dollar of rateable value of the land upon which a community titles scheme is constructed from $6,000,001 up to and including $10,000,000",0.0097,0,plus
+D,"for each dollar of rateable value of the land upon which a community titles scheme is constructed in excess of $10,000,000",0.00225,0,plus
+,for each dollar of rateable value apportioned to each lot within a community titles scheme by reference to its interest schedule lot entitlement under a community management statement,1,1,

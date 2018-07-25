@@ -1,0 +1,4 @@
+
+install from here the developer version
+
+https://pandas-datareader.readthedocs.io/en/latest/#install-latest-development-version

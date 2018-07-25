@@ -1,0 +1,250 @@
+Suburb,Zone,Zone_Description,Number of Properties
+ABERFOYLE PARK                                    ,DCe       ,District Centre,132
+ABERFOYLE PARK                                    ,HF        ,Hills Face,4
+ABERFOYLE PARK                                    ,LCe       ,Local Centre,15
+ABERFOYLE PARK                                    ,R         ,Residential,3732
+ABERFOYLE PARK                                    ,RH        ,Residential Hills,796
+ABERFOYLE PARK                                    ,RuL       ,Rural Living,27
+ALDINGA                                           ,CP        ,Caravan and Tourist Park,2
+ALDINGA                                           ,DU        ,Deferred Urban,8
+ALDINGA                                           ,OS        ,Open Space,12
+ALDINGA                                           ,PRPRO     ,Primary Production,118
+ALDINGA                                           ,TD        ,Tourism Development,4
+ALDINGA                                           ,T         ,Township,257
+ALDINGA BEACH                                     ,CP        ,Caravan and Tourist Park,1
+ALDINGA BEACH                                     ,CSTCON    ,Coastal Conservation,11
+ALDINGA BEACH                                     ,Con       ,Conservation,13
+ALDINGA BEACH                                     ,DU        ,Deferred Urban,2
+ALDINGA BEACH                                     ,DCe       ,District Centre,87
+ALDINGA BEACH                                     ,In        ,Industry,73
+ALDINGA BEACH                                     ,LIN       ,Light Industry,72
+ALDINGA BEACH                                     ,PRPRO     ,Primary Production,76
+ALDINGA BEACH                                     ,R         ,Residential,4935
+BLEWITT SPRINGS                                   ,HF        ,Hills Face,35
+BLEWITT SPRINGS                                   ,PRPRO     ,Primary Production,162
+CHANDLERS HILL                                    ,HF        ,Hills Face,94
+CHANDLERS HILL                                    ,PRPRO     ,Primary Production,23
+CHANDLERS HILL                                    ,RH        ,Residential Hills,141
+CHANDLERS HILL                                    ,RuL       ,Rural Living,13
+CHANDLERS HILL                                    ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),30
+CHERRY GARDENS                                    ,HF        ,Hills Face,32
+CHERRY GARDENS                                    ,PRPRO     ,Primary Production,67
+CHERRY GARDENS                                    ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),139
+CHRISTIE DOWNS                                    ,DCe       ,District Centre,1
+CHRISTIE DOWNS                                    ,In        ,Industry,4
+CHRISTIE DOWNS                                    ,LCe       ,Local Centre,16
+CHRISTIE DOWNS                                    ,NCe       ,Neighbourhood Centre,13
+CHRISTIE DOWNS                                    ,RCE       ,Regional Centre,253
+CHRISTIE DOWNS                                    ,R         ,Residential,2328
+CHRISTIES BEACH                                   ,CP        ,Caravan and Tourist Park,1
+CHRISTIES BEACH                                   ,CSTCON    ,Coastal Conservation,4
+CHRISTIES BEACH                                   ,C         ,Commercial,19
+CHRISTIES BEACH                                   ,DCe       ,District Centre,400
+CHRISTIES BEACH                                   ,In        ,Industry,2
+CHRISTIES BEACH                                   ,LCe       ,Local Centre,9
+CHRISTIES BEACH                                   ,NCe       ,Neighbourhood Centre,19
+CHRISTIES BEACH                                   ,R         ,Residential,2502
+CLARENDON                                         ,HF        ,Hills Face,3
+CLARENDON                                         ,LIN       ,Light Industry,1
+CLARENDON                                         ,PRPRO     ,Primary Production,135
+CLARENDON                                         ,T         ,Township,160
+CLARENDON                                         ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),43
+COROMANDEL EAST                                   ,HF        ,Hills Face,121
+COROMANDEL EAST                                   ,PRPRO     ,Primary Production,38
+COROMANDEL VALLEY                                 ,HF        ,Hills Face,11
+COROMANDEL VALLEY                                 ,NCe       ,Neighbourhood Centre,12
+COROMANDEL VALLEY                                 ,OS        ,Open Space,17
+COROMANDEL VALLEY                                 ,RH        ,Residential Hills,1176
+DARLINGTON                                        ,C         ,Commercial,10
+DARLINGTON                                        ,HF        ,Hills Face,1
+DARLINGTON                                        ,OS        ,Open Space,7
+DARLINGTON                                        ,R         ,Residential,280
+DORSET VALE                                       ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),9
+FLAGSTAFF HILL                                    ,HF        ,Hills Face,169
+FLAGSTAFF HILL                                    ,LCe       ,Local Centre,4
+FLAGSTAFF HILL                                    ,NCe       ,Neighbourhood Centre,17
+FLAGSTAFF HILL                                    ,OS        ,Open Space,19
+FLAGSTAFF HILL                                    ,R         ,Residential,3714
+FLAGSTAFF HILL                                    ,RH        ,Residential Hills,7
+FLAGSTAFF HILL                                    ,RP        ,Residential Park,1
+HACKHAM                                           ,C         ,Commercial,12
+HACKHAM                                           ,HF        ,Hills Face,4
+HACKHAM                                           ,In        ,Industry,223
+HACKHAM                                           ,LCe       ,Local Centre,14
+HACKHAM                                           ,NCe       ,Neighbourhood Centre,11
+HACKHAM                                           ,PRPRO     ,Primary Production,22
+HACKHAM                                           ,R         ,Residential,1794
+HACKHAM WEST                                      ,LCe       ,Local Centre,22
+HACKHAM WEST                                      ,R         ,Residential,1747
+HAPPY VALLEY                                      ,CU        ,Community,283
+HAPPY VALLEY                                      ,Con       ,Conservation,253
+HAPPY VALLEY                                      ,HF        ,Hills Face,8
+HAPPY VALLEY                                      ,LCe       ,Local Centre,16
+HAPPY VALLEY                                      ,NCe       ,Neighbourhood Centre,27
+HAPPY VALLEY                                      ,OS        ,Open Space,10
+HAPPY VALLEY                                      ,R         ,Residential,4047
+HAPPY VALLEY                                      ,RH        ,Residential Hills,756
+HAPPY VALLEY                                      ,RuL       ,Rural Living,16
+HUNTFIELD HEIGHTS                                 ,CU        ,Community,3
+HUNTFIELD HEIGHTS                                 ,LCe       ,Local Centre,16
+HUNTFIELD HEIGHTS                                 ,OS        ,Open Space,2
+HUNTFIELD HEIGHTS                                 ,R         ,Residential,1790
+IRONBANK                                          ,PRPRO     ,Primary Production,54
+IRONBANK                                          ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),4
+KANGARILLA                                        ,PRPRO     ,Primary Production,298
+KANGARILLA                                        ,T         ,Township,68
+KANGARILLA                                        ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),26
+KUITPO                                            ,PRPRO     ,Primary Production,3
+KUITPO                                            ,WP(MLR)   ,Watershed Protection (Mount Lofty Ranges),35
+LONSDALE                                          ,In        ,Industry,1187
+LONSDALE                                          ,MINEX     ,Mineral Extraction,1
+MASLIN BEACH                                      ,CSTCON    ,Coastal Conservation,9
+MASLIN BEACH                                      ,MINEX     ,Mineral Extraction,11
+MASLIN BEACH                                      ,OS        ,Open Space,40
+MASLIN BEACH                                      ,PRPRO     ,Primary Production,20
+MASLIN BEACH                                      ,R         ,Residential,557
+MCLAREN FLAT                                      ,HF        ,Hills Face,47
+MCLAREN FLAT                                      ,PRPRO     ,Primary Production,219
+MCLAREN FLAT                                      ,T         ,Township,412
+MCLAREN VALE                                      ,CP        ,Caravan and Tourist Park,1
+MCLAREN VALE                                      ,CU        ,Community,1
+MCLAREN VALE                                      ,DU        ,Deferred Urban,2
+MCLAREN VALE                                      ,HF        ,Hills Face,66
+MCLAREN VALE                                      ,In        ,Industry,6
+MCLAREN VALE                                      ,LIN       ,Light Industry,21
+MCLAREN VALE                                      ,MINEX     ,Mineral Extraction,5
+MCLAREN VALE                                      ,MU        ,Mixed Uses,29
+MCLAREN VALE                                      ,NCe       ,Neighbourhood Centre,173
+MCLAREN VALE                                      ,OS        ,Open Space,45
+MCLAREN VALE                                      ,PRPRO     ,Primary Production,449
+MCLAREN VALE                                      ,R         ,Residential,1440
+MCLAREN VALE                                      ,TD        ,Tourism Development,25
+MOANA                                             ,CP        ,Caravan and Tourist Park,3
+MOANA                                             ,CSTCON    ,Coastal Conservation,7
+MOANA                                             ,Con       ,Conservation,2
+MOANA                                             ,DU        ,Deferred Urban,1
+MOANA                                             ,LCe       ,Local Centre,13
+MOANA                                             ,NCe       ,Neighbourhood Centre,8
+MOANA                                             ,R         ,Residential,1196
+MOANA                                             ,TD        ,Tourism Development,60
+MORPHETT VALE                                     ,C         ,Commercial,48
+MORPHETT VALE                                     ,CU        ,Community,9
+MORPHETT VALE                                     ,Con       ,Conservation,1
+MORPHETT VALE                                     ,DCe       ,District Centre,333
+MORPHETT VALE                                     ,In        ,Industry,1
+MORPHETT VALE                                     ,LCe       ,Local Centre,47
+MORPHETT VALE                                     ,NCe       ,Neighbourhood Centre,76
+MORPHETT VALE                                     ,R         ,Residential,10731
+MORPHETT VALE                                     ,TD        ,Tourism Development,1
+NOARLUNGA CENTRE                                  ,HF        ,Hills Face,2
+NOARLUNGA CENTRE                                  ,In        ,Industry,1
+NOARLUNGA CENTRE                                  ,LIN       ,Light Industry,2
+NOARLUNGA CENTRE                                  ,PRPRO     ,Primary Production,3
+NOARLUNGA CENTRE                                  ,RCE       ,Regional Centre,474
+NOARLUNGA CENTRE                                  ,R         ,Residential,7
+NOARLUNGA CENTRE                                  ,T         ,Township,1
+NOARLUNGA DOWNS                                   ,LCe       ,Local Centre,1
+NOARLUNGA DOWNS                                   ,OS        ,Open Space,8
+NOARLUNGA DOWNS                                   ,RCE       ,Regional Centre,19
+NOARLUNGA DOWNS                                   ,R         ,Residential,1790
+O'HALLORAN HILL                                   ,HF        ,Hills Face,13
+O'HALLORAN HILL                                   ,NCe       ,Neighbourhood Centre,81
+O'HALLORAN HILL                                   ,R         ,Residential,1006
+O'SULLIVAN BEACH                                  ,CSTCON    ,Coastal Conservation,4
+O'SULLIVAN BEACH                                  ,In        ,Industry,5
+O'SULLIVAN BEACH                                  ,LCe       ,Local Centre,8
+O'SULLIVAN BEACH                                  ,R         ,Residential,958
+OLD NOARLUNGA                                     ,BG        ,Bulky Goods,1
+OLD NOARLUNGA                                     ,C         ,Commercial,12
+OLD NOARLUNGA                                     ,HF        ,Hills Face,8
+OLD NOARLUNGA                                     ,In        ,Industry,3
+OLD NOARLUNGA                                     ,LIN       ,Light Industry,69
+OLD NOARLUNGA                                     ,MINEX     ,Mineral Extraction,1
+OLD NOARLUNGA                                     ,PRPRO     ,Primary Production,17
+OLD NOARLUNGA                                     ,R         ,Residential,444
+OLD NOARLUNGA                                     ,T         ,Township,140
+OLD REYNELLA                                      ,C         ,Commercial,40
+OLD REYNELLA                                      ,In        ,Industry,4
+OLD REYNELLA                                      ,LCe       ,Local Centre,7
+OLD REYNELLA                                      ,R         ,Residential,1314
+OLD REYNELLA                                      ,T         ,Township,285
+ONKAPARINGA HILLS                                 ,CU        ,Community,1
+ONKAPARINGA HILLS                                 ,HF        ,Hills Face,235
+ONKAPARINGA HILLS                                 ,LIN       ,Light Industry,2
+ONKAPARINGA HILLS                                 ,R         ,Residential,740
+ONKAPARINGA HILLS                                 ,RuL       ,Rural Living,14
+PORT NOARLUNGA                                    ,CSTCON    ,Coastal Conservation,14
+PORT NOARLUNGA                                    ,C         ,Commercial,1
+PORT NOARLUNGA                                    ,OS        ,Open Space,25
+PORT NOARLUNGA                                    ,RCE       ,Regional Centre,10
+PORT NOARLUNGA                                    ,R         ,Residential,1428
+PORT NOARLUNGA                                    ,TD        ,Tourism Development,3
+PORT NOARLUNGA                                    ,TCE       ,Town Centre,62
+PORT NOARLUNGA SOUTH                              ,CSTCON    ,Coastal Conservation,9
+PORT NOARLUNGA SOUTH                              ,In        ,Industry,2
+PORT NOARLUNGA SOUTH                              ,LCe       ,Local Centre,3
+PORT NOARLUNGA SOUTH                              ,NCe       ,Neighbourhood Centre,15
+PORT NOARLUNGA SOUTH                              ,OS        ,Open Space,5
+PORT NOARLUNGA SOUTH                              ,R         ,Residential,1259
+PORT WILLUNGA                                     ,CSTCON    ,Coastal Conservation,2
+PORT WILLUNGA                                     ,OS        ,Open Space,17
+PORT WILLUNGA                                     ,R         ,Residential,866
+PORT WILLUNGA                                     ,T         ,Township,193
+REYNELLA                                          ,C         ,Commercial,35
+REYNELLA                                          ,DU        ,Deferred Urban,1
+REYNELLA                                          ,In        ,Industry,16
+REYNELLA                                          ,LCe       ,Local Centre,25
+REYNELLA                                          ,MINEX     ,Mineral Extraction,3
+REYNELLA                                          ,OS        ,Open Space,7
+REYNELLA                                          ,R         ,Residential,2155
+REYNELLA EAST                                     ,R         ,Residential,914
+SEAFORD                                           ,DCe       ,District Centre,242
+SEAFORD                                           ,In        ,Industry,151
+SEAFORD                                           ,LCe       ,Local Centre,7
+SEAFORD                                           ,R         ,Residential,1928
+SEAFORD HEIGHTS                                   ,DU        ,Deferred Urban,4
+SEAFORD HEIGHTS                                   ,PRPRO     ,Primary Production,4
+SEAFORD HEIGHTS                                   ,R         ,Residential,9
+SEAFORD MEADOWS                                   ,BG        ,Bulky Goods,16
+SEAFORD MEADOWS                                   ,C         ,Commercial,4
+SEAFORD MEADOWS                                   ,CU        ,Community,1
+SEAFORD MEADOWS                                   ,In        ,Industry,18
+SEAFORD MEADOWS                                   ,NCe       ,Neighbourhood Centre,42
+SEAFORD MEADOWS                                   ,OS        ,Open Space,15
+SEAFORD MEADOWS                                   ,R         ,Residential,1526
+SEAFORD RISE                                      ,DU        ,Deferred Urban,4
+SEAFORD RISE                                      ,LCe       ,Local Centre,2
+SEAFORD RISE                                      ,R         ,Residential,2537
+SELLICKS BEACH                                    ,CSTCON    ,Coastal Conservation,1
+SELLICKS BEACH                                    ,Con       ,Conservation,3
+SELLICKS BEACH                                    ,DU        ,Deferred Urban,16
+SELLICKS BEACH                                    ,HF        ,Hills Face,2
+SELLICKS BEACH                                    ,LCe       ,Local Centre,10
+SELLICKS BEACH                                    ,PRPRO     ,Primary Production,58
+SELLICKS BEACH                                    ,R         ,Residential,1491
+SELLICKS HILL                                     ,HF        ,Hills Face,26
+SELLICKS HILL                                     ,MINEX     ,Mineral Extraction,1
+SELLICKS HILL                                     ,PRPRO     ,Primary Production,165
+TATACHILLA                                        ,MINEX     ,Mineral Extraction,6
+TATACHILLA                                        ,PRPRO     ,Primary Production,108
+THE RANGE                                         ,HF        ,Hills Face,48
+UNKNOWN                                           ,R         ,Residential,1
+WHITES VALLEY                                     ,PRPRO     ,Primary Production,164
+WILLUNGA                                          ,CU        ,Community,33
+WILLUNGA                                          ,HF        ,Hills Face,65
+WILLUNGA                                          ,LIN       ,Light Industry,24
+WILLUNGA                                          ,PRPRO     ,Primary Production,90
+WILLUNGA                                          ,R         ,Residential,558
+WILLUNGA                                          ,RH        ,Residential Hills,62
+WILLUNGA                                          ,RuL       ,Rural Living,1
+WILLUNGA                                          ,T         ,Township,356
+WILLUNGA SOUTH                                    ,HF        ,Hills Face,109
+WILLUNGA SOUTH                                    ,PRPRO     ,Primary Production,61
+WILLUNGA SOUTH                                    ,RH        ,Residential Hills,49
+WOODCROFT                                         ,CP        ,Caravan and Tourist Park,1
+WOODCROFT                                         ,CU        ,Community,27
+WOODCROFT                                         ,LCe       ,Local Centre,12
+WOODCROFT                                         ,NCe       ,Neighbourhood Centre,14
+WOODCROFT                                         ,R         ,Residential,4322
+WOODCROFT                                         ,RP        ,Residential Park,1
+WOODCROFT                                         ,RuL       ,Rural Living,24
