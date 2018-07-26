@@ -14,6 +14,10 @@ import quandl
 	data for each state and download data set for each steate and then join in together.
 	
 	We will cover join and union on data set in the next toturial.
+	
+	pd.read_html return a list and each element of the list is a dataFrame
+	in order read an specific column in each dataFrame we will use dataFrame[1] notation for Example.
+	
 '''
 
 api_key = 'yUxsN1NrRwssSDyET8Ui'
