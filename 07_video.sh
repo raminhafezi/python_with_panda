@@ -112,6 +112,9 @@ print(House_index_df.tail(10))
 	since our House_index_df is a DataFrame and is a pandas object, we can use
 '''
 print(type(House_index_df))
-House_index_df.to_pickle('Pandas_pickle.pickle')
-HPI_index = pd.read_pickle('Pandas_pickle.pickle')
+House_index_df.to_pickle('Pandas_pickle.pick')
+HPI_index = pd.read_pickle('Pandas_pickle.pick')
 print(HPI_index.tail(10))
+ 
+#Update, even you can choose the format of the file with waht ever you want, here I choose pick, but you can choose anything.
+
