@@ -35,7 +35,7 @@ us_States_aabr = pd.read_html('https://simple.wikipedia.org/wiki/List_of_U.S._st
 
 
 # This is a dataFrame
-print(us_States_aabr[0])
+#print(us_States_aabr[0])
 
 #print(type(us_States_aabr))
 #print(type(us_States_aabr[0]))
@@ -43,9 +43,12 @@ print(us_States_aabr[0])
 #print(us_States_aabr[0][2][1:])
 
 # Now lets make a API key for every US State to poll a request from the  website
-for abv in us_States_aabr[0][1][1:]:
-	print('FMAC/HPI_{}'.format(str(abv)))
+#for abv in us_States_aabr[0][1][1:]:
+#	print('FMAC/HPI_{}'.format(str(abv)))
 	
-
+	
+fiddy_states = pd.read_html('https://simple.wikipedia.org/wiki/List_of_U.S._states')
+for abbv in (fiddy_states[0][1][1:]):
+	print('FMAC/HPI_{}'.format(abbv))
 
 
